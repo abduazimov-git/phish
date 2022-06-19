@@ -24,7 +24,7 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>PHISH</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
@@ -75,8 +75,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/abduazimov-git" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/abduazimov74" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/abduazimov-git" target="_blank"><img src="https://img.shields.io/badge/Github-abduazimov-git-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/abduazimov74" target="_blank"><img src="https://img.shields.io/badge/IG-%40Abduazimov74-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/abduazimov_projects" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
